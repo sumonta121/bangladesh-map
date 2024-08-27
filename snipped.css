@@ -1,0 +1,2541 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap'); 
+@media all{     
+  body {  
+    background:#fff;
+    font-family:Roboto,Helvetica,Arial,sans-serif;
+    font-size:62.5%;
+    line-height:24px;
+    color:#757575;
+    font-weight:300;
+  }  
+}  
+@media all{ 
+  * { 
+    box-sizing: border-box;
+  } 
+
+  body { 
+    margin: 0;
+  } 
+
+  body { 
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size: 14px; 
+    line-height: 1.428571429; 
+    color: #333333; 
+    background-color: #fff;
+  } 
+
+  body { 
+    background-color: #EEE;
+  } 
+
+  body { 
+    font-family: Roboto,Helvetica,Arial,sans-serif; 
+    font-weight: 300;
+  } 
+
+  body { 
+    background-color: #fcfcfc;
+  } 
+
+  body { 
+    font-size: 1.6rem; 
+    line-height: 24px; 
+    padding: 0; 
+    margin: 0; 
+    font-family: 'Lato', sans-serif, "solaimanlipi"; 
+    font-weight: 400; 
+    background: #f9f9f9; 
+    color: #757575;
+  } 
+
+  html { 
+    font-family: sans-serif; 
+    -ms-text-size-adjust: 100%; 
+    -webkit-text-size-adjust: 100%;
+  } 
+
+  html { 
+    font-size: 10px; 
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  } 
+
+  html { 
+    font-size: 62.5%;
+  } 
+
+  svg:not(:root) { 
+    overflow: hidden;
+  } 
+
+  :before,:after { 
+    box-sizing: border-box;
+  } 
+
+  a { 
+    background-color: transparent;
+  } 
+
+  a { 
+    color: #337ab7; 
+    text-decoration: none;
+  } 
+
+  a { 
+    color: #009688;
+  } 
+
+  a { 
+    text-decoration: none; 
+    color: #4caf50; 
+    outline: 0; 
+    transition: all 0.2s ease-in-out 0s;
+  } 
+}     
+
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#g5019.style-y4fJW {  
+   display:inline;  
+   fill:#9dd1ab;  
+   fill-opacity:1;  
+}  
+#text2500.style-Rt9LO {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5415.style-bQg3B {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5421.style-YX9je {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5435.style-ekEHl {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5441.style-oomxl {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5458.style-6m2Eh {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6022.style-B9orp {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6028.style-5bEcx {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6034.style-8o9fE {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6040.style-bvKqQ {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6046.style-YJbhz {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6052.style-TPQqh {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6058.style-YGRzN {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6064.style-VNz75 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6074.style-xq9je {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6080.style-yxNvW {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3519.style-aIcML {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3529.style-PN54H {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4661.style-7dKmD {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4667.style-rmRwH {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4673.style-OpmgB {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4683.style-zyV1z {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4689.style-lImZZ {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4699.style-c8vGi {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4705.style-sljmj {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4711.style-NArjF {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2364.style-cEDAe {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2370.style-VRogB {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2376.style-UoZd6 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3371.style-rgzTw {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3377.style-z86y2 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3387.style-AXklS {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3393.style-Il3mK {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3399.style-fTxeZ {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3405.style-XoA2D {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5349.style-O1tRg {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6324.style-KdmZb {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6328.style-PZ6km {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6334.style-F8Z4j {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2387.style-frRQl {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2393.style-QS44w {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2403.style-SN1vJ {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2409.style-reWNC {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6293.style-Od8oS {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6299.style-C6DvA {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6305.style-mN9oW {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6311.style-cwO6m {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text7286.style-rYxaq {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9232.style-F6NlI {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9236.style-xgjyG {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9242.style-VH8g6 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9248.style-F9IVA {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9256.style-vAISG {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9264.style-343q8 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9274.style-3eQoz {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9280.style-FLpjq {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9286.style-RLfOg {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9292.style-pE9fM {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9298.style-7cw7I {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9304.style-pyG6J {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9310.style-Wf8jH {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9316.style-IqyR8 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9322.style-ez84g {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9328.style-bvbV4 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+/* These were inline style tags. Uses id+class to override almost everything */
+#g5019.style-EPt9h {  
+   display:inline;  
+   fill:#9dd1ab;  
+   fill-opacity:1;  
+}  
+#text2500.style-VlJcw {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5415.style-bjzUi {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5421.style-KByN8 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5435.style-iTSKh {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5441.style-T6PZj {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5458.style-oLoCn {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6022.style-eDbFf {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6028.style-eCoq9 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6034.style-gzXJ8 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6040.style-iUIpe {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6046.style-z4FCN {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6052.style-T5r6S {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6058.style-Yd2dy {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6064.style-X32FZ {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6074.style-bo4Q1 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6080.style-WowAX {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3519.style-xlbFt {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3529.style-osxLp {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4661.style-Q3oSR {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4667.style-NFHEA {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4673.style-8SSnD {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4683.style-5ZYbU {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4689.style-9OvEk {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4699.style-g9qPr {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4705.style-mmTIo {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text4711.style-WpnLT {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2364.style-njg4o {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2370.style-skGVF {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2376.style-aSqfB {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3371.style-OqrUX {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3377.style-j3wRk {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3387.style-TRH7A {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3393.style-HaTNP {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3399.style-EJlRX {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text3405.style-SQqUy {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text5349.style-Mlo3H {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6324.style-GWWhB {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6328.style-61xvI {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6334.style-7wmnH {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2387.style-1BBdA {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2393.style-JoLal {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2403.style-MhIwD {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text2409.style-xGpfw {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6293.style-ewmPw {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6299.style-dPALv {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6305.style-Bn47s {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text6311.style-Cn27s {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text7286.style-qAjJm {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9232.style-3OJF8 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9236.style-3qZ8Y {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9242.style-DfeMj {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9248.style-mV2ab {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9256.style-Hiejd {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9264.style-pUZQg {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9274.style-GGZpW {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9280.style-QGUkb {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9286.style-XzW2n {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9292.style-JHMz8 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9298.style-kHtzs {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9304.style-z73oq {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9310.style-gUiJk {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9316.style-31LWm {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9322.style-XP9n2 {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
+#text9328.style-No74d {  
+   font-style:normal;  
+   font-variant:normal;  
+   font-weight:bold;  
+   font-stretch:normal;  
+   font-size:20px;  
+   line-height:125%;  
+   font-family:'Bitstream Vera Sans';  
+   text-align:start;  
+   writing-mode:lr-tb;  
+   text-anchor:start;  
+   fill:#000000;  
+   fill-opacity:1;  
+   stroke:none;  
+   stroke-width:1px;  
+   stroke-linecap:butt;  
+   stroke-linejoin:miter;  
+   stroke-opacity:1;  
+}  
